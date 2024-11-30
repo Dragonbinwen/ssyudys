@@ -1,0 +1,6 @@
+
+#屏蔽SRC文件夹
+src/
+
+#python缓存文件
+*.py[cod]
